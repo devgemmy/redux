@@ -4,7 +4,7 @@ title: Core Concepts
 description: "Introduction > Core Concepts: A quick overview of Redux's key idea, reducer functions"
 ---
 
-# Core Concepts
+# Redux Core Concepts
 
 Imagine your app’s state is described as a plain object. For example, the state of a todo app might look like this:
 
